@@ -1,2 +1,5 @@
-# eme6356-ss25-module8
-Slide deck for EME6356, Module 8: Course Wrap Up (Spring 2025) 
+# EME6356 Module 8: Course Wrap Up
+
+Slide deck for **EME6356, Module 8: Course Wrap Up** (Spring 2025)
+
+![](img/8-case-discussions.jpg)
